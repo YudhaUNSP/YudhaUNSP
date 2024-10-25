@@ -3,9 +3,9 @@ I live in Indonesia, and am currently studying at Nusa Putra University.
 
 ### <summary><strong>Tools:</strong></summary>
 <p>
-    <img src="https://img.shields.io/badge/Code-visual%20code-blue" />
+    <img src="https://img.shields.io/badge/Code-Visual%20code-blue" />
     <img src="https://img.shields.io/badge/OS-Windows-blue" />
-    <img src="https://img.shields.io/badge/OS-Linux-yellow" />
+    <img src="https://img.shields.io/badge/OS-Ubuntu-yellow" />
 </p>
 
 ### <summary><strong>About me!</strong></summary>
