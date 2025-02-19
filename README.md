@@ -27,3 +27,5 @@ I live in Indonesia, and am currently studying at Nusa Putra University.
 <a href="https://www.youtube.com/@kyozixzero">
   <img align="left" alt="Goo's Blog" width="20px" src="https://simpleicons.vercel.app/youtube/000" />
 </a>
+<br>
+<img align="center" width="300px" src="https://tenor.com/id/view/anime-cute-soft-gif-10799488111010477791" />
