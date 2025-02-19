@@ -28,4 +28,4 @@ I live in Indonesia, and am currently studying at Nusa Putra University.
   <img align="left" alt="Goo's Blog" width="20px" src="https://simpleicons.vercel.app/youtube/000" />
 </a>
 <br>
-<img align="center" src="https://media.tenor.com/3fL9-fKZtN8AAAAC/anime-cute.gif" alt="Anime Cute GIF">
+<img align="center" src="https://github.com/YudhaUNSP/YudhaUNSP/blob/main/sumi-cute.gif" alt="Sumi-Cute">
