@@ -28,4 +28,4 @@ I live in Indonesia, and am currently studying at Nusa Putra University.
   <img align="left" alt="Goo's Blog" width="20px" src="https://simpleicons.vercel.app/youtube/000" />
 </a>
 <br>
-<div class="tenor-gif-embed" data-postid="10799488111010477791" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/anime-cute-soft-gif-10799488111010477791">Anime Cute GIF</a>from <a href="https://tenor.com/search/anime-gifs">Anime GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img align="center" src="https://media.tenor.com/3fL9-fKZtN8AAAAC/anime-cute.gif" alt="Anime Cute GIF">
