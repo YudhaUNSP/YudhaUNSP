@@ -10,7 +10,7 @@ I live in Indonesia, and am currently studying at Nusa Putra University.
 
 ### <summary><strong>About me!</strong></summary>
 <p>
-    - ☕ I'm learning java now. </br>
+    - ☕ I'm javaScript and PHP now </br>
     - 🙎‍♂️ Ask me about anything.</br>
     - 📨 You can contact me via <a href="mailto:yudha.yudistira_ti24@nusaputra.ac.id">Email</a>  </br>
     - 🚹 Pronouns: He/Him. </br>
