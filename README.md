@@ -1,4 +1,4 @@
-# <summary><strong>Bonjour 👋 , I'm Yudha Yudistira.</strong></summary>
+# <summary><strong>Ola! 👋 , I'm Yudha Yudistira.</strong></summary>
 I live in Indonesia, and am currently studying at Nusa Putra University.
 
 ### <summary><strong>Tools:</strong></summary>
