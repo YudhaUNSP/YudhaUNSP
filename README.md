@@ -18,7 +18,6 @@ I live in Indonesia, and am currently studying at Nusa Putra University.
 <p>
  
 ### <summary><strong>Let's connect!</strong></summary>
-<br>
 <a href="https://www.facebook.com/yuddxd/">
   <img align="left" alt="Goo's Twitter" width="20px" src="https://simpleicons.vercel.app/facebook/000" />
 </a>
@@ -28,6 +27,7 @@ I live in Indonesia, and am currently studying at Nusa Putra University.
 <a href="https://www.youtube.com/@kyozixzero">
   <img align="left" alt="Goo's Blog" width="20px" src="https://simpleicons.vercel.app/youtube/000" />
 </a>
+<br>
 <p>
     
 <p align="left"> <img src="https://github.com/YudhaUNSP/YudhaUNSP/blob/main/sumi-cute.gif" alt="Sumi Cute" width="200px"> </p>
