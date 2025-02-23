@@ -19,7 +19,7 @@ I live in Indonesia, and am currently studying at Nusa Putra University.
  
 ### <summary><strong>Let's connect!</strong></summary>
 <a href="https://www.facebook.com/yuddxd/">
-  <img align="left" alt="Goo's Twitter" width="20px" src="https://simpleicons.vercel.app/facebook/000" />
+  <img align="left" alt="Goo's Twitter" width="10px" src="https://simpleicons.vercel.app/facebook/000" />
 </a>
 <a href="https://www.instagram.com/yudayudii_/">
   <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.vercel.app/instagram/000" />
